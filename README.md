@@ -8,8 +8,7 @@ Proyecto desarrollado como challenge final del curso **Alura Agente**.
 ## 🌐 Demo en vivo
 
 **👉 [Probar AstroAlura](https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app)**
-
-*(agregar aquí una captura de pantalla de la app funcionando, mostrando una pregunta y su respuesta)*
+<img width="829" height="717" alt="Captura de pantalla 2026-07-21 152912" src="https://github.com/user-attachments/assets/c7e9d8d1-098c-4607-b9a2-b6be00f0e315" />
 
 ##  Descripción
 
