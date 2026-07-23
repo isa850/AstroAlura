@@ -141,7 +141,7 @@ AstroAlura/
 - Incluir imágenes o gráficos junto a las respuestas (por ejemplo, imágenes de planetas).
 - Aumentar el número de fragmentos recuperados (`k`) para preguntas que requieren combinar varias secciones del documento.
 
-## 👤 Autor (Isabel sofia riascos
+## 👤 Autor (Isabel sofia riascos)
 
 Proyecto desarrollado como parte del challenge final del curso Alura Agente.
 
