@@ -9,6 +9,8 @@ Proyecto desarrollado como challenge final del curso **Alura Agente**.
 
 **👉 [Probar AstroAlura](https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app)**
 <img width="829" height="717" alt="Captura de pantalla 2026-07-21 152912" src="https://github.com/user-attachments/assets/c7e9d8d1-098c-4607-b9a2-b6be00f0e315" />
+<img width="1328" height="711" alt="Captura de pantalla 2026-07-25 063041" src="https://github.com/user-attachments/assets/ea36805b-f640-4efc-8d39-bd904be409b8" />
+
 
 ##  Descripción
 
