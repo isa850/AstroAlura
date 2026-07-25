@@ -120,8 +120,11 @@ El documento fuente (`base_conocimiento_astronomia.pdf`) cubre seis áreas temá
 
 ##  Despliegue
 
-La aplicación está desplegada públicamente en **Streamlit Community Cloud**, conectado directamente a este repositorio de GitHub. La API key se almacena de forma segura en los "Secrets" de Streamlit Cloud, sin quedar expuesta en el código ni en el repositorio.
-
+La aplicación está desplegada públicamente en **Streamlit Community Cloud**
+(plataforma alternativa a OCI, usada con la flexibilidad de herramientas 
+indicada en el enunciado del challenge), conectada directamente a este 
+repositorio de GitHub. Cada actualización del código en GitHub se refleja 
+automáticamente en la app en producción.
 **URL pública:** [https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app](https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app)
 
 ##  Estructura del repositorio
