@@ -5,7 +5,7 @@ Agente de inteligencia artificial que responde preguntas en lenguaje natural sob
 
 Proyecto desarrollado como challenge final del curso **Alura Agente**.
 
-## 🌐 Demo en vivo
+##  Demo en vivo
 
 **👉 [Probar AstroAlura](https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app)**
 <img width="829" height="717" alt="Captura de pantalla 2026-07-21 152912" src="https://github.com/user-attachments/assets/c7e9d8d1-098c-4607-b9a2-b6be00f0e315" />
@@ -54,7 +54,7 @@ Interfaz de chat (Streamlit) → desplegada públicamente en Streamlit Community
 | Entorno de desarrollo | Visual Studio Code |
 | Despliegue | Streamlit Community Cloud |
 
-## 📚 Base de conocimiento
+##  Base de conocimiento
 
 El documento fuente (`base_conocimiento_astronomia.pdf`) cubre seis áreas temáticas:
 
@@ -65,20 +65,20 @@ El documento fuente (`base_conocimiento_astronomia.pdf`) cubre seis áreas temá
 5. **Fenómenos astronómicos** — eclipses, supernovas, agujeros negros, lluvias de meteoros y radiación cósmica de fondo.
 6. **Datos rápidos y curiosidades** — cantidad de planetas, distancias al Sol, comparaciones de tamaño, planeta más cercano a la Tierra, entre otros.
 
-## 💬 Ejemplos de preguntas y respuestas
+##  Ejemplos de preguntas y respuestas
 
 **Pregunta:** ¿Cuántas lunas tiene Júpiter?
 **Respuesta:** Según el contexto, Júpiter tiene al menos 95 lunas conocidas.
 
 **Pregunta:** ¿Cuál es el planeta más cercano a la Tierra?
-**Respuesta:** *(agregar aquí la respuesta obtenida)*
+**Respuesta:** *(En promedio, Venus es el planeta que más se acerca a la Tierra, llegando a estar a unos 40 millones de kilómetros en su punto más cercano.)*
 
 **Pregunta:** ¿Cuál es la capital de Francia?
 **Respuesta:** Lo sentimos, esa información no se encuentra en la base de datos.
 
-> ✅ El agente distingue correctamente entre preguntas que puede responder con el documento y preguntas fuera de su base de conocimiento, evitando inventar información (mitigación de alucinaciones).
+>  El agente distingue correctamente entre preguntas que puede responder con el documento y preguntas fuera de su base de conocimiento, evitando inventar información (mitigación de alucinaciones).
 
-## ⚙️ Instrucciones de instalación y ejecución local
+## Instrucciones de instalación y ejecución local
 
 ### Requisitos previos
 - Python 3.10 o superior
@@ -122,7 +122,7 @@ La aplicación está desplegada públicamente en **Streamlit Community Cloud**, 
 
 **URL pública:** [https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app](https://astroalura-df2fenivzktuqzwfl38ie2.streamlit.app)
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 AstroAlura/
@@ -141,7 +141,7 @@ AstroAlura/
 - Incluir imágenes o gráficos junto a las respuestas (por ejemplo, imágenes de planetas).
 - Aumentar el número de fragmentos recuperados (`k`) para preguntas que requieren combinar varias secciones del documento.
 
-## 👤 Autor (Isabel sofia riascos)
+##  Autor (Isabel sofia riascos)
 
 Proyecto desarrollado como parte del challenge final del curso Alura Agente.
 
